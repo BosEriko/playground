@@ -71,6 +71,3 @@ yarn-error.log
 # Node Lock Files
 package-lock.json
 yarn.lock
-
-# Firebase
-.firebase/
